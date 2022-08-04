@@ -1,0 +1,7 @@
+{
+  "name": "menu_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
